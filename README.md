@@ -1,3 +1,4 @@
+**This is a guided project during my education into Cloud Engineering** 
 
 # Portfolio Website Deployment for James Smith
 
